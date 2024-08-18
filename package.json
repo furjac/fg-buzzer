@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple buzzer for quizzes",
   "main": "index.js",
-  "author": "Shatrughn Gupta",
+  "author": "Furjack",
   "license": "MIT",
   "dependencies": {
     "socket.io": "^2.5.1"
