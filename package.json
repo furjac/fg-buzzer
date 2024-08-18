@@ -1,10 +1,10 @@
 {
-  "name": "buzzer",
+  "name": "my-node-app",
   "version": "1.0.0",
-  "description": "Simple buzzer for quizzes",
-  "main": "index.js",
-  "author": "Furjack",
-  "license": "MIT",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
   "dependencies": {
     "socket.io": "^2.5.1"
   }
